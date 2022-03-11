@@ -1,0 +1,3 @@
+[submodule "pre-commit-terraform"]
+	path = pre-commit-terraform
+	url = https://github.com/andrew-glenn/pre-commit-terraform.git
