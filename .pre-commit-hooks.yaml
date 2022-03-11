@@ -4,3 +4,7 @@
   language: script
   verbose: true
   always_run: true
+  args:
+    - '--env-passthrough=CODEBUILD_SRC_DIR'
+    - '--args=--foo=__ENV_CODEBUILD_SRC_DIR__'
+
