@@ -1,0 +1,5 @@
+- id: env-debug
+  name: env debug
+  entry: env.sh
+  language: script
+  verbose: true
