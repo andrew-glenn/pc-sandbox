@@ -3,3 +3,4 @@
   entry: env.sh
   language: script
   verbose: true
+  always_run: true
